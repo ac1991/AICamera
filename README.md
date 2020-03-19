@@ -23,6 +23,6 @@ Click the green play button in Android Studio 3.0.1 and everything should build 
 
 Please see the LICENSE file in the root directory the source tree.
 
-###NDK环境
+### NDK环境
 
 采用高版本NDK可能会出现一些问题，我采用的android-ndk-r16b编译成功
